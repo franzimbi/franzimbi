@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @franzimbi
-- 👀 I’m interested in... learn the most lenguages i can
+- 👀 I’m interested in... learn the most lenguages and develop i can
 - 🌱 I’m currently learning ... C++ and OOP
 - 💞️ I’m looking to collaborate on ... C
 - 📫 How to reach me ... 
