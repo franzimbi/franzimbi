@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @franzimbi
 - 👀 I’m interested in... learn the most lenguages and develop i can
-- 🌱 I’m currently learning ... Golang
-- 💞️ I’m looking to collaborate on ... C and python
+- 🌱 I’m currently learning ... Java
+- 💞️ I’m looking to collaborate on ... C, Golang and python
 - 📫 How to reach me ... 
 
 <!---
